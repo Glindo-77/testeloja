@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Fone Bluetooth XYZ",
+    "price": "R$199,00",
+    "image": "https://via.placeholder.com/150",
+    "seller": "@tecnobrasil"
+  },
+  {
+    "id": 2,
+    "name": "Curso de Programação Web",
+    "price": "R$59,90",
+    "image": "https://via.placeholder.com/150",
+    "seller": "@devacademy"
+  }
+]
