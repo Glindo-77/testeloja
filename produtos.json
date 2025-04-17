@@ -12,5 +12,12 @@
     "price": "R$59,90",
     "image": "https://via.placeholder.com/150",
     "seller": "@devacademy"
+  },
+  {
+    "id": 3,
+    "name": "Mouse Gamer RGB",
+    "price": "R$89,00",
+    "image": "https://via.placeholder.com/150",
+    "seller": "@tecnobrasil"
   }
 ]
